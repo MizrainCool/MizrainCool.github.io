@@ -1,0 +1,30 @@
+header {
+  background-color: #8d0505;
+  font-family: 'Noto Sans JP', sans-serif;
+  font-size: large;
+  font-weight: 300;
+}
+
+header nav ul a {
+  color: #fff !important;
+  text-decoration: none;
+}
+
+header nav ul :hover{
+  color: black !important;
+}
+
+header nav ul :active{
+  color: black !important;
+}
+
+Link {
+  color: #fff !important;
+  text-decoration: none;
+}
+Link :hover {
+  color: black !important;
+}
+Link :active {
+  color: black !important;
+}

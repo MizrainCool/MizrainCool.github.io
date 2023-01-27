@@ -1,0 +1,66 @@
+.estadio {
+  background-image: url('../pokemon/pokemonResources/Estadio.png');
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position: center center;
+  height: 100vh;
+}
+
+.ataque {
+  visibility: hidden;
+}
+
+.botonPelear {
+  position: relative;
+  top: 325px;
+}
+
+.pokemonUsuario {
+  position: relative;
+  top: 260px;
+  transform: scaleX(-1);
+}
+
+.pokemonMaquina {
+  position: relative;
+  top: 260px;
+}
+
+.fuegoUsuario {
+  position: relative;
+  top: 270px;
+  left: -90px;
+}
+
+.aguaUsuario {
+  position: relative;
+  top: 270px;
+  transform: scaleX(-1);
+  left: -100px;
+}
+
+.plantaUsuario {
+  position: relative;
+  top: 270px;
+  transform: scaleX(-1);
+  left: -100px;
+}
+
+.fuegoMaquina {
+  position: relative;
+  top: 220px;
+  transform: scaleX(-1);
+  right: 40px;
+}
+
+.aguaMaquina {
+  position: relative;
+  top: 220px;
+  right: 60px;
+}
+
+.plantaMaquina {
+  position: relative;
+  top: 220px;
+  right: 60px;
+}

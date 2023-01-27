@@ -1,0 +1,13 @@
+.videoYT {
+  overflow:hidden;
+  padding-bottom:560px;
+  position:relative;
+  height:0;
+}
+.videoYT iframe{
+  left:0;
+  top:0;
+  height:100%;
+  width:100%;
+  position:absolute;
+}
